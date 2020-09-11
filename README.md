@@ -6,3 +6,4 @@ implementing - RecyclerView with ViewPager
              - TabLayouts
              
  the cool thing that, you submit the project through your application, so if your POST request not working you won't submit it, LOL.
+  I have provided screenshots of the running application
